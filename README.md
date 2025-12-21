@@ -59,6 +59,6 @@ Seasoned **AI engineer** with 12+ years of experience building and shipping prod
 
 ## 📬 Contact
 
-- **LinkedIn:** https://linkedin.com/in/amitk2013
+- **LinkedIn:** https://www.linkedin.com/in/amitkiitk2013
 
 > Open to discussions on LLM product architectures, healthcare AI, and building robust ML platforms in real-world environments.

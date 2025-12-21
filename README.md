@@ -1,67 +1,64 @@
-# 👋 Hi, I’m Amit Kumar
+# Amit Kumar
 
-Senior AI / Machine Learning Engineer with 11+ years of experience building and deploying production-grade AI systems across healthcare, telecom, insurance, and enterprise platforms.
+> Senior AI/ML Engineer • Generative AI, NLP, MLOps • Abu Dhabi, UAE
 
-I specialize in Generative AI, NLP, and end-to-end ML systems, with a strong focus on scalability, reliability, and real-world impact.
+Seasoned **AI engineer** with 12+ years of experience building and shipping production ML and GenAI systems across healthcare, telecom, and insurance. Comfortable owning the full lifecycle from problem framing and data engineering to model design, evaluation, and deployment on cloud-native stacks.
+
+---
+
+## 👋 About Me
+
+- Senior AI / ML Engineer currently building GenAI applications in healthcare at M42 Health, Abu Dhabi. 
+- Strong focus on LLM-powered products: RAG, multi-agent workflows, model fine-tuning, and production-grade evaluation. 
+- Enjoy working at the intersection of data, product, and engineering to deliver measurable business impact, not just models.
 
 ---
 
 ## 🧠 What I Work On
 
-- **Generative AI & LLMs**
-  - Retrieval-Augmented Generation (RAG)
-  - Multi-agent systems
-  - Model fine-tuning & prompt engineering
-  - OpenAI / Azure OpenAI–based solutions
-
-- **Applied NLP & ML**
-  - Text classification, information extraction
-  - Intent discovery, sentiment analysis
-  - Speech & conversational AI (ASR, chatbots)
-
-- **Production AI Systems**
-  - Python, FastAPI, microservices
-  - Docker, Kubernetes, AKS
-  - ML pipelines, monitoring, cost optimization
-
-- **Healthcare AI**
-  - Physician-facing AI assistants
-  - EHR data access via secure AI agents
-  - Genomics & clinical decision support systems
+- **GenAI & NLP**: LLMs, SLMs, prompt engineering, fine-tuning, RAG, transformers, LangGraph, LangChain, Langfuse. 
+- **Multimodal & Speech**: ASR, text-to-speech, vision-language models for real products like contact center AI and physician assistants. 
+- **Applied ML**: Classical ML (XGBoost, Random Forest, SVM), experimentation, and model interpretability for churn, lead scoring, and analytics. 
+- **Systems & MLOps**: Python, FastAPI/Django/Flask, microservices, Docker, Kubernetes, Azure, AWS, Databricks, CI/CD for ML. 
+- **Data platforms**: SQL, MongoDB, Elasticsearch, Milvus, FAISS, Azure AI Search, Neo4j, Power BI.
 
 ---
 
-## 🏢 Current Role
+## 🏥 Recent Highlights (Healthcare & GenAI)
 
-**Senior Machine Learning Engineer – M42 Health (Abu Dhabi)**  
-Building AI applications for healthcare providers and regulators using GenAI, RAG, and agent-based architectures.
-
----
-
-## 🛠️ Tech Stack
-
-**Languages & Frameworks**
-- Python, PyTorch, Scikit-learn, Pandas
-- FastAPI, LangChain, LangGraph
-
-**GenAI & NLP**
-- LLMs, Transformers, RAG, MCP
-- Vector databases: FAISS, Milvus, Qdrant
-- Search & Graph: Azure AI Search, Neo4j
-
-**Cloud & MLOps**
-- Azure (primary), AWS
-- Docker, Kubernetes, Azure ML
-- CI/CD, monitoring, cost optimization
+- Built an AI-powered analytics platform that turns natural language questions into dynamic SQL and visualizations for clinical and environmental datasets using LLMs, RAG, and MCP. 
+- Developed a physician-facing chat interface over EHR data using a multi-agent framework and RAG on FHIR-formatted records to support faster, more informed decision-making.
+- Created an AI-assisted genetic variant pathogenicity classifier that autonomously pulls and interprets scientific literature and bioinformatics data, reducing analysis time by ~4 hours per patient.
 
 ---
 
-## 🤝 Collaboration
+## 📡 Previous Impact
 
-Open to open-source collaboration and technical discussions on GenAI systems and AI architecture.
+- Led AI for telecom contact centers at Airtel Digital: ASR- and LLM-powered monitoring, lead mining on 200k+ daily calls, and chatbots that increased intent coverage by 16% and improved lead conversion by 10%. 
+- Drove analytics for Microsoft Surface devices, mining telemetry, app usage, and social media to surface product insights and high-impact issues. 
+- Built NLP and feedback systems at Info Edge (Shiksha.com) to power virtual agents and insights for universities and students. 
 
 ---
 
-## 📫 Contact
+## 🛠 Tech Stack Snapshot
+
+- **Languages**: Python, C, Java
+- **ML / Data**: PyTorch, PySpark, Pandas, scikit-learn, Statsmodels, Databricks 
+- **GenAI**: OpenAI / Azure OpenAI APIs, LangChain, LangGraph, Langfuse, RAG tooling  
+- **MLOps & Cloud**: AWS, Azure, Docker, Kubernetes, GitHub, Azure ML, Azure AI Foundry 
+- **Datastores**: SQL, MongoDB, Elasticsearch, Milvus, FAISS, Azure AI Search, Neo4j 
+
+---
+
+## 🎓 Background
+
+- B.Tech in Chemical Engineering from **IIT Kanpur** (CGPA 8.2/10).
+- Over a decade of experience moving from data analytics and classical ML into large-scale GenAI systems. 
+
+---
+
+## 📬 Contact
 
 - **LinkedIn:** https://linkedin.com/in/amitk2013
+
+> Open to discussions on LLM product architectures, healthcare AI, and building robust ML platforms in real-world environments.

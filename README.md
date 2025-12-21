@@ -1,6 +1,6 @@
 # Amit Kumar
 
-> Senior AI/ML Engineer • Generative AI, NLP, MLOps • Abu Dhabi, UAE
+> Senior AI/ML Engineer • Generative AI, NLP, MLOps
 
 Seasoned **AI engineer** with 12+ years of experience building and shipping production ML and GenAI systems across healthcare, telecom, and insurance. Comfortable owning the full lifecycle from problem framing and data engineering to model design, evaluation, and deployment on cloud-native stacks.
 

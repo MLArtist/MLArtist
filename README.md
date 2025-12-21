@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Amit Kumar (MLArtist)
+# 👋 Hi, I’m Amit Kumar
 
 Senior AI / Machine Learning Engineer with 11+ years of experience building and deploying production-grade AI systems across healthcare, telecom, insurance, and enterprise platforms.
 

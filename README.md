@@ -56,15 +56,6 @@ Building AI applications for healthcare providers and regulators using GenAI, RA
 
 ---
 
-## 📌 What You’ll Find in This Repo
-
-- Applied ML & GenAI experiments
-- Architecture patterns for production AI
-- RAG and agent-based system examples
-- Clean, reproducible code with engineering best practices
-
----
-
 ## 🤝 Collaboration
 
 Open to open-source collaboration and technical discussions on GenAI systems and AI architecture.

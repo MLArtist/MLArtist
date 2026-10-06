@@ -82,5 +82,3 @@ Seasoned **AI engineer** with 12+ years of experience building and shipping prod
 
 - **LinkedIn:** https://www.linkedin.com/in/amitkiitk2013
 - **Email:** amitk6925@gmail.com
-
-> Open to discussions on LLM product architectures, agentic AI, healthcare AI, AI safety and governance, and building robust ML platforms in real-world environments.

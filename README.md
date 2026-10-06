@@ -6,7 +6,7 @@ Seasoned **AI engineer** with 12+ years of experience building and shipping prod
 
 ---
 
-## 👋 About Me
+## About Me
 
 - Senior AI Engineer at **M42 Health**, Abu Dhabi, building GenAI applications for healthcare providers, regulators, and patients.
 - Strong focus on LLM-powered products: RAG, multi-agent workflows, Model Context Protocol (MCP), model fine-tuning, and production-grade evaluation.
@@ -15,7 +15,7 @@ Seasoned **AI engineer** with 12+ years of experience building and shipping prod
 
 ---
 
-## 🧠 What I Work On
+## What I Work On
 
 - **GenAI & NLP**: LLMs, SLMs, prompt engineering, fine-tuning, RAG, transformers, LangGraph, LangChain, Langfuse.
 - **Agentic AI & Governance**: Multi-agent systems, MCP, long-term memory, red teaming, AI guardrails, policy-adherence testing.
@@ -26,7 +26,7 @@ Seasoned **AI engineer** with 12+ years of experience building and shipping prod
 
 ---
 
-## 🏥 Recent Highlights (Healthcare & GenAI @ M42 Health)
+## Recent Highlights (Healthcare & GenAI @ M42 Health)
 
 - **Natural-language analytics platform**: turns plain-English questions into dynamic SQL and automated visualizations over clinical and environmental data, using LLMs, RAG, and MCP.
 - **Physician EHR assistant**: a chat interface over patient Electronic Health Records (FHIR-formatted), built on a multi-agent framework with RAG to support faster, better-informed clinical decisions.
@@ -36,7 +36,7 @@ Seasoned **AI engineer** with 12+ years of experience building and shipping prod
 
 ---
 
-## 📡 Previous Impact
+## Previous Impact
 
 - **Airtel Digital (Lead AI Engineer)**: led a team of 6 building ASR- and LLM-powered contact center monitoring; lead mining on 200k+ daily calls (+10% lead conversion); intent classification and emerging-intent discovery for chatbots (+16% intent coverage).
 - **Microsoft (Data & Applied Scientist 2)**: drove AI analytics for Surface devices, with aspect-based sentiment analysis on Windows social media data, Feedback Hub mining to detect high-impact bugs, and telemetry pipelines guiding feature prioritization.
@@ -46,7 +46,7 @@ Seasoned **AI engineer** with 12+ years of experience building and shipping prod
 
 ---
 
-## 🗺 Career Path
+## Career Path
 
 | Years | Company | Role |
 |---|---|---|
@@ -61,7 +61,7 @@ Seasoned **AI engineer** with 12+ years of experience building and shipping prod
 
 ---
 
-## 🛠 Tech Stack Snapshot
+## Tech Stack Snapshot
 
 - **Languages**: Python, SQL, C, Java
 - **ML / Data**: PyTorch, PySpark, Pandas, scikit-learn, Statsmodels, XGBoost, Databricks
@@ -71,7 +71,7 @@ Seasoned **AI engineer** with 12+ years of experience building and shipping prod
 
 ---
 
-## 🎓 Background
+## Background
 
 - B.Tech in Chemical Engineering from **IIT Kanpur** (CGPA 8.2/10).
 - Over a decade of experience moving from process analytics and classical ML into large-scale GenAI and agentic systems.
